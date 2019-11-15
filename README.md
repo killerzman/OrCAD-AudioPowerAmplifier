@@ -1,4 +1,4 @@
-# ETTI Project 1 Audio Power Amplifier OrCAD
+# ETTI Project 1 - Audio Power Amplifier OrCAD
  
 **This project is in romanian!**
 
