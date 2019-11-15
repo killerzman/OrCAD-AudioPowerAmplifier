@@ -1,0 +1,51 @@
+*
+*******************************************
+*
+*BZX84-C10
+*
+*NXP Semiconductors
+*
+*Voltage regulator diode
+*
+*
+*
+*
+* 
+*
+*IR    = 200nA @ VR = 7V
+*IZSM  = 3A    @ tp = 100µs
+*VZmax = 10,6V @ IZ = 5mA
+*
+*
+*
+*
+* 
+*
+*
+*Package pinning does not match Spice model pinning.
+*Package: SOT23
+*
+*Package Pin 1: Anode
+*Package Pin 2: not connected
+*Package Pin 3: Cathode
+*
+*
+*
+*Simulator: PSPICE
+*
+*******************************************
+*#
+.MODEL BZX84-C10 D
++ IS=110.88E-18
++ N=.92657
++ RS=.85899
++ IKF=149.75
++ CJO=57.292E-12
++ M=.33236
++ VJ=.67995
++ ISR=49.142E-12
++ BV=10.124
++ IBV=.72438
++ TT=973.82E-9
+*##
+*

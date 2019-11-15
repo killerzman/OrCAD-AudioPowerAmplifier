@@ -1,0 +1,675 @@
+\t (00:21:43) allegro 17.2 S012 Windows SPB 64-bit Edition
+\t (00:21:43)     Journal start - Wed Nov 14 14:25:12 2018
+\t (00:21:43)         Host=DESKTOP-7M0DJVG User=vladt Pid=15152 CPUs=4
+\t (00:21:43) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:21:43) 
+\d (00:21:43) Design opened: C:/Projects/Proiect 1 DCE/P1_2018_432A_Traistaru_Vlad-Viorel_Amplificator_audio_putere_N8_OrCAD/Layout/AMPLFICATOR AUDIO PUTERE.brd
+\i (00:21:43) placementedit 
+\i (00:21:48) ncdrill legend 
+\i (00:21:50) setwindow form.nc_drilllegend
+\i (00:21:50) FORM nc_drilllegend done  
+\i (00:21:51) setwindow pcb
+\i (00:21:51) pick grid -11.40 -185.38
+\t (00:21:51) last pick:  -10.00 -190.00
+\t (00:21:51) NC Drill Legend generation successful
+\i (00:21:51) placementedit 
+\i (00:21:54) save 
+\i (00:21:57) fillin yes 
+\i (00:21:57) placementedit 
+\i (00:21:57) zoom out 1 
+\i (00:21:57) setwindow pcb
+\i (00:21:57) zoom out 1668.98 -211.12
+\i (00:21:57) trapsize 3677
+\i (00:21:58) zoom out 1 
+\i (00:21:58) setwindow pcb
+\i (00:21:58) zoom out 1668.98 -211.12
+\i (00:21:58) trapsize 7354
+\i (00:21:59) zoom in 1 
+\i (00:21:59) setwindow pcb
+\i (00:21:59) zoom in -2305.84 1936.23
+\i (00:21:59) trapsize 3677
+\i (00:22:22) zoom fit 
+\i (00:22:22) trapsize 1838
+\i (00:22:26) setwindow form.find
+\i (00:22:26) FORM find all_on  
+\i (00:22:29) setwindow pcb
+\i (00:22:29) zoom fit 
+\i (00:22:29) trapsize 1838
+\i (00:22:30) zoom out 
+\i (00:22:30) setwindow pcb
+\i (00:22:30) zoom out 798.17 798.16
+\i (00:22:30) trapsize 3677
+\i (00:22:34) move 
+\t (00:22:34) Select element(s) to move.
+\i (00:22:35) drag_start grid -342.34 1930.67
+\i (00:22:35) drag_stop -1982.27 -635.86
+\i (00:22:36) drag_start grid -1298.35 915.83
+\i (00:22:37) drag_stop 2878.70 1533.56
+\w (00:22:37) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:22:37) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:22:37) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:22:37) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:22:37) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:22:37) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\w (00:22:37) WARNING(SPMHGE-623): Non associative dimensions in selection set ignored.  Use the
+Dimension Environment to edit dimensions.
+\i (00:22:38) pick grid -467.35 1857.13
+\t (00:22:38) last pick:  -470.00 1860.00
+\t (00:22:38) Element has no origin, using pick.
+\t (00:22:38) Element has no origin, using pick.
+\t (00:22:38) Element has no origin, using pick.
+\t (00:22:38) Element has no origin, using pick.
+\t (00:22:38) Element has no origin, using pick.
+\t (00:22:38) Element has no origin, using pick.
+\t (00:22:38) Element has no origin, using pick.
+\t (00:22:38) Element has no origin, using pick.
+\t (00:22:38) Element has no origin, using pick.
+\t (00:22:38) Element has no origin, using pick.
+\t (00:22:38) Element has no origin, using pick.
+\t (00:22:38) Element has no origin, using pick.
+\t (00:22:38) Element has no origin, using pick.
+\t (00:22:38) Element has no origin, using pick.
+\t (00:22:38) Element has no origin, using pick.
+\t (00:22:38) Element has no origin, using pick.
+\t (00:22:38) Element has no origin, using pick.
+\t (00:22:38) Element has no origin, using pick.
+\t (00:22:38) Element has no origin, using pick.
+\t (00:22:38) Element has no origin, using pick.
+\t (00:22:38) Element has no origin, using pick.
+\t (00:22:38) Element has no origin, using pick.
+\t (00:22:38) Element has no origin, using pick.
+\t (00:22:38) Element has no origin, using pick.
+\t (00:22:38) Element has no origin, using pick.
+\t (00:22:38) Element has no origin, using pick.
+\t (00:22:38) Element has no origin, using pick.
+\t (00:22:38) Element has no origin, using pick.
+\t (00:22:38) Element has no origin, using pick.
+\t (00:22:38) Element has no origin, using pick.
+\t (00:22:38) Element has no origin, using pick.
+\t (00:22:38) Element has no origin, using pick.
+\t (00:22:38) Element has no origin, using pick.
+\t (00:22:38) Element has no origin, using pick.
+\t (00:22:38) Element has no origin, using pick.
+\t (00:22:38) Element has no origin, using pick.
+\t (00:22:38) Element has no origin, using pick.
+\t (00:22:38) Element has no origin, using pick.
+\t (00:22:38) Element has no origin, using pick.
+\t (00:22:38) Element has no origin, using pick.
+\t (00:22:38) Element has no origin, using pick.
+\t (00:22:38) Element has no origin, using pick.
+\t (00:22:38) Element has no origin, using pick.
+\t (00:22:38) Element has no origin, using pick.
+\t (00:22:38) Element has no origin, using pick.
+\t (00:22:38) Element has no origin, using pick.
+\t (00:22:38) Element has no origin, using pick.
+\t (00:22:38) Element has no origin, using pick.
+\t (00:22:38) Element has no origin, using pick.
+\t (00:22:38) Element has no origin, using pick.
+\t (00:22:38) Element has no origin, using pick.
+\t (00:22:38) Element has no origin, using pick.
+\t (00:22:38) Element has no origin, using pick.
+\t (00:22:38) Element has no origin, using pick.
+\t (00:22:38) Element has no origin, using pick.
+\t (00:22:38) Element has no origin, using pick.
+\t (00:22:38) Element has no origin, using pick.
+\t (00:22:38) Element has no origin, using pick.
+\t (00:22:38) Element has no origin, using pick.
+\t (00:22:38) Element has no origin, using pick.
+\t (00:22:38) Element has no origin, using pick.
+\t (00:22:38) Element has no origin, using pick.
+\t (00:22:38) Element has no origin, using pick.
+\t (00:22:38) Element has no origin, using pick.
+\t (00:22:38) Element has no origin, using pick.
+\t (00:22:38) Element has no origin, using pick.
+\t (00:22:38) Element has no origin, using pick.
+\t (00:22:38) Element has no origin, using pick.
+\t (00:22:38) Element has no origin, using pick.
+\t (00:22:38) Element has no origin, using pick.
+\t (00:22:38) Element has no origin, using pick.
+\t (00:22:38) Element has no origin, using pick.
+\t (00:22:38) Element has no origin, using pick.
+\t (00:22:38) Element has no origin, using pick.
+\t (00:22:38) Element has no origin, using pick.
+\t (00:22:38) Element has no origin, using pick.
+\t (00:22:38) Element has no origin, using pick.
+\t (00:22:38) Moving R8 / R_RES2012X50N_0805_15K / RES2012X50N_0805.
+\t (00:22:38) Moving R7 / R_RES2012X50N_0805_1.5K / RES2012X50N_0805.
+\t (00:22:38) Moving D2 / BZX84-C8V2_1_TO236AB_BZX84-C8V2 / TO236AB.
+\t (00:22:38) Moving Q4 / QBC846B_0_SOT23_QBC846B / SOT23.
+\t (00:22:38) Moving Q11 / QBC856B_1_SOT23_QBC856B / SOT23.
+\t (00:22:38) Moving R14 / POT_TS53YJ_2K / TS53YJ.
+\t (00:22:38) Moving C4 / C_CAPC2008X126N_0805_4.7U / CAPC2008X126N_0805.
+\t (00:22:38) Moving R12 / R_RES2012X50N_0805_910 / RES2012X50N_0805.
+\t (00:22:38) Moving R1A / R_RES2012X50N_0805_330 / RES2012X50N_0805.
+\t (00:22:38) Moving R1B / R_RES2012X50N_0805_330 / RES2012X50N_0805.
+\t (00:22:38) Moving Q10 / QBC846B_0_SOT23_QBC846B / SOT23.
+\t (00:22:38) Moving R28B / R_RES2012X50N_0805_0.47 / RES2012X50N_0805.
+\t (00:22:38) Moving C5 / C_CAPC2008X126N_0805_1N / CAPC2008X126N_0805.
+\t (00:22:38) Moving C6 / C_CAPC2008X126N_0805_1N / CAPC2008X126N_0805.
+\t (00:22:38) Moving Q5 / QBC846B_0_SOT23_QBC846B / SOT23.
+\t (00:22:38) Moving R13 / R_RES2012X50N_0805_1K / RES2012X50N_0805.
+\t (00:22:38) Moving R28A / R_RES2012X50N_0805_0.47 / RES2012X50N_0805.
+\t (00:22:38) Moving R3 / R_RES2012X50N_0805_1K / RES2012X50N_0805.
+\t (00:22:38) Moving R26 / R_RES2012X50N_0805_33 / RES2012X50N_0805.
+\t (00:22:38) Moving RS1 / R_RES2012X50N_0805_51 / RES2012X50N_0805.
+\t (00:22:38) Moving Q7 / QMJD31C_0_DPACK_QMJD31C / DPACK.
+\t (00:22:38) Moving J3 / CON2_1210RF_WV_12D_CON2 / 1210RF_WV_12D.
+\t (00:22:38) Moving J6 / CON1_TEST_PAD_CON1 / TEST_PAD.
+\t (00:22:38) Pick new location for the element(s).
+\i (00:22:40) undo 
+\i (00:22:40) trapsize 3677
+\i (00:22:40) placementedit 
+\i (00:22:42) pick grid -342.34 1974.80
+\t (00:22:42) last pick:  -340.00 1970.00
+\i (00:22:42) pick grid dbl -342.34 1974.80
+\t (00:22:42) last pick:  -340.00 1970.00
+\i (00:22:44) move 
+\t (00:22:44) Select element(s) to move.
+\i (00:22:47) drag_start grid -489.41 2026.27
+\i (00:22:48) drag_stop -2026.39 -827.06
+\i (00:22:50) pick grid -2129.35 570.19
+\t (00:22:50) last pick:  -2130.00 570.00
+\t (00:22:50) Element has no origin, using pick.
+\t (00:22:50) Element has no origin, using pick.
+\t (00:22:50) Element has no origin, using pick.
+\t (00:22:50) Element has no origin, using pick.
+\t (00:22:50) Pick new location for the element(s).
+\i (00:22:52) pick grid 2143.30 1636.51
+\t (00:22:52) last pick:  2140.00 1640.00
+\i (00:22:53) pick grid 2533.06 -231.39
+\t (00:22:53) last pick:  2530.00 -230.00
+\i (00:22:53) drag_start grid 2628.66 48.06
+\i (00:22:54) roam y 16
+\i (00:22:55) drag_stop 2260.96 60.96
+\i (00:22:55) drag_start grid 2613.95 -152.30
+\i (00:22:56) roam y 16
+\i (00:22:57) drag_stop -379.11 -850.93
+\i (00:22:58) pick grid 3011.07 -64.05
+\t (00:22:58) last pick:  3010.00 -60.00
+\t (00:22:58) Element has no origin, using pick.
+\t (00:22:58) Element has no origin, using pick.
+\t (00:22:58) Element has no origin, using pick.
+\t (00:22:58) Element has no origin, using pick.
+\t (00:22:58) Element has no origin, using pick.
+\t (00:22:58) Element has no origin, using pick.
+\t (00:22:58) Element has no origin, using pick.
+\t (00:22:58) Pick new location for the element(s).
+\i (00:22:59) roam x 96 
+\i (00:22:59) roam x 96
+\i (00:23:00) roam x 96 
+\i (00:23:00) roam x 96
+\i (00:23:00) roam x 96 
+\i (00:23:00) roam x 96
+\i (00:23:00) roam x 96 
+\i (00:23:00) roam x 96
+\i (00:23:00) roam x 96 
+\i (00:23:00) roam x 96
+\i (00:23:00) roam x 96 
+\i (00:23:00) roam x 96
+\i (00:23:01) roam y -96 
+\i (00:23:01) roam y -96
+\i (00:23:01) roam y -96 
+\i (00:23:01) roam y -96
+\i (00:23:04) pick grid 7570.52 2465.71
+\t (00:23:04) last pick:  7570.00 2470.00
+\i (00:23:04) pick grid 7489.63 1171.41
+\t (00:23:04) last pick:  7490.00 1170.00
+\i (00:23:08) zoom in 1 
+\i (00:23:08) setwindow pcb
+\i (00:23:08) zoom in 5276.09 1884.75
+\i (00:23:08) trapsize 1838
+\i (00:23:08) zoom in 1 
+\i (00:23:08) setwindow pcb
+\i (00:23:08) zoom in 5276.09 1884.75
+\i (00:23:08) trapsize 919
+\i (00:23:09) zoom out 1 
+\i (00:23:09) setwindow pcb
+\i (00:23:09) zoom out 5345.96 1651.27
+\i (00:23:09) trapsize 1838
+\i (00:23:19) artwork 
+\i (00:23:21) setwindow form.film_control
+\i (00:23:21) FORM film_control cancel  
+\i (00:23:21) setwindow pcb
+\i (00:23:21) placementedit 
+\i (00:23:33) zoom out 1 
+\i (00:23:33) setwindow pcb
+\i (00:23:33) zoom out 4544.37 1875.56
+\i (00:23:33) trapsize 3677
+\i (00:23:33) zoom out 1 
+\i (00:23:33) setwindow pcb
+\i (00:23:33) zoom out 4544.36 1875.56
+\i (00:23:33) trapsize 7354
+\i (00:23:33) zoom out 1 
+\i (00:23:33) setwindow pcb
+\i (00:23:33) zoom out 4544.36 1875.56
+\i (00:23:33) trapsize 14708
+\i (00:23:34) zoom in 1 
+\i (00:23:34) setwindow pcb
+\i (00:23:34) zoom in -1423.36 -1448.44
+\i (00:23:34) trapsize 7354
+\i (00:23:34) zoom in 1 
+\i (00:23:34) setwindow pcb
+\i (00:23:34) zoom in -879.17 -845.42
+\i (00:23:34) trapsize 3677
+\i (00:23:36) zoom in 1 
+\i (00:23:36) setwindow pcb
+\i (00:23:36) zoom in 84.21 1743.18
+\i (00:23:36) trapsize 1838
+\i (00:23:41) artwork 
+\i (00:23:47) setwindow form.film_control
+\i (00:23:47) FORM film_control general_parameters  
+\i (00:23:48) FORM film_control film_control  
+\i (00:24:25) FORM film_control filmtree 'MULTISEL YES' TOP 
+\i (00:24:25) FORM film_control filmtree  TOP 
+\i (00:24:25) FORM film_control filmtree 'MULTISEL YES' SSTOP 
+\i (00:24:25) FORM film_control filmtree  SSTOP 
+\i (00:24:26) FORM film_control filmtree 'MULTISEL YES' SPTOP 
+\i (00:24:26) FORM film_control filmtree  SPTOP 
+\i (00:24:26) FORM film_control filmtree 'MULTISEL YES' SMTOP 
+\i (00:24:26) FORM film_control filmtree  SMTOP 
+\i (00:24:27) FORM film_control filmtree 'MULTISEL YES' SMBOT 
+\i (00:24:27) FORM film_control filmtree  SMBOT 
+\i (00:24:27) FORM film_control filmtree 'MULTISEL YES' FAB 
+\i (00:24:27) FORM film_control filmtree  FAB 
+\i (00:24:27) FORM film_control filmtree 'MULTISEL YES' BOTTOM 
+\i (00:24:27) FORM film_control filmtree  BOTTOM 
+\i (00:24:28) FORM film_control filmtree 'MULTISEL YES' BO 
+\i (00:24:28) FORM film_control filmtree  BO 
+\i (00:24:37) FORM film_control filmtree  BOTTOM 
+\i (00:24:37) FORM film_control filmtree  BO 
+\i (00:24:38) FORM film_control filmtree  BOTTOM 
+\i (00:24:38) FORM film_control filmtree  FAB 
+\i (00:24:38) FORM film_control filmtree  SMBOT 
+\i (00:24:41) FORM film_control undefined_line_width 10 
+\i (00:24:41) FORM film_control filmtree  SMTOP 
+\i (00:24:42) FORM film_control filmtree  SPTOP 
+\i (00:24:43) FORM film_control filmtree  SSTOP 
+\i (00:24:43) FORM film_control filmtree  TOP 
+\i (00:24:52) FORM film_control filmtree  BOTTOM 
+\i (00:24:52) FORM film_control filmtree  BO 
+\i (00:24:53) FORM film_control filmtree  BOTTOM 
+\i (00:24:54) FORM film_control filmtree  FAB 
+\i (00:24:55) FORM film_control filmtree  SMBOT 
+\i (00:24:55) FORM film_control filmtree  SMTOP 
+\i (00:24:56) FORM film_control filmtree  SPTOP 
+\i (00:24:56) FORM film_control filmtree  SSTOP 
+\i (00:24:57) FORM film_control filmtree  TOP 
+\i (00:25:00) FORM film_control create  
+\i (00:25:05) fillin yes 
+\t (00:25:05) Checking db records
+\t (00:25:05)     checking for orphans...
+\t (00:25:05)     Checked 100 percent
+\w (00:25:05) Run batch DRC to correctly regenerate DRC errs.
+
+\t (00:25:05) Done dbdoctor.
+\t (00:25:05) Starting Create artwork films...
+\w (00:25:09) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
+\w (00:25:10) Artwork generated with warnings.
+\i (00:26:26) setwindow pcb
+\i (00:26:26) setwindow text
+\i (00:26:26) close
+\i (00:26:27) setwindow form.film_control
+\i (00:26:27) FORM film_control create  
+\i (00:26:28) fillin yes 
+\t (00:26:28) Starting Create artwork films...
+\w (00:26:28) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
+\w (00:26:29) Artwork generated with warnings.
+\i (00:28:07) setwindow pcb
+\i (00:28:07) setwindow text
+\i (00:28:07) close
+\i (00:28:08) setwindow form.film_control
+\i (00:28:08) FORM film_control cancel  
+\i (00:28:08) setwindow pcb
+\i (00:28:08) placementedit 
+\i (00:29:29) nctape_full 
+\w (00:29:29) WARNING(SPMHMF-272): NC Parameters file 'nc_param.txt' not found ... loading defaults.
+\i (00:29:37) setwindow form.nc_drill
+\i (00:29:37) FORM nc_drill scale 1.00 
+\i (00:29:37) FORM nc_drill auto_tool_select YES 
+\i (00:29:38) FORM nc_drill optimize YES 
+\i (00:29:57) FORM nc_drill tape_name DRILL.drl 
+\i (00:29:57) FORM nc_drill parameters  
+\i (00:30:02) setwindow form.nc_parameters
+\i (00:30:02) FORM nc_parameters suppress_lead_zeroes YES 
+\i (00:30:03) FORM nc_parameters suppress_equal YES 
+\i (00:30:03) FORM nc_parameters enhanced_format YES 
+\i (00:30:04) FORM nc_parameters done  
+\i (00:30:06) setwindow form.nc_drill
+\i (00:30:06) FORM nc_drill execute  
+\t (00:30:06) Starting Generating NC Drill...
+\i (00:30:31) FORM nc_drill cancel  
+\i (00:30:31) setwindow pcb
+\i (00:30:31) placementedit 
+\i (00:30:48) artwork 
+\i (00:30:51) setwindow form.film_control
+\i (00:30:51) FORM film_control filmtree popup 'Display for Visibility' BO 
+\i (00:30:54) FORM film_control filmtree  BOTTOM 
+\i (00:30:55) FORM film_control filmtree popup 'Display for Visibility' BOTTOM 
+\i (00:30:58) FORM film_control filmtree  FAB 
+\i (00:30:59) FORM film_control filmtree popup 'Display for Visibility' FAB 
+\i (00:31:01) setwindow pcb
+\i (00:31:01) pick grid -349.67 974.69
+\t (00:31:01) last pick:  -350.00 970.00
+\i (00:31:02) zoom out 1 
+\i (00:31:02) setwindow pcb
+\i (00:31:02) zoom out -334.96 982.05
+\i (00:31:02) trapsize 3677
+\i (00:31:02) zoom out 1 
+\i (00:31:02) setwindow pcb
+\i (00:31:02) zoom out -334.98 982.05
+\i (00:31:02) trapsize 7354
+\i (00:31:08) zoom in 1 
+\i (00:31:08) setwindow pcb
+\i (00:31:08) zoom in 6195.36 2232.22
+\i (00:31:08) trapsize 3677
+\i (00:31:08) zoom out 1 
+\i (00:31:08) setwindow pcb
+\i (00:31:08) zoom out 6195.36 2232.23
+\i (00:31:08) trapsize 7354
+\i (00:31:13) setwindow form.film_control
+\i (00:31:13) FORM film_control filmtree popup 'Display for Visibility' SMBOT 
+\i (00:31:16) FORM film_control filmtree popup 'Display for Visibility' SMTOP 
+\i (00:31:17) FORM film_control filmtree popup 'Display for Visibility' SPTOP 
+\i (00:31:19) FORM film_control filmtree popup 'Display for Visibility' SSTOP 
+\i (00:31:20) FORM film_control filmtree popup 'Display for Visibility' TOP 
+\i (00:31:22) FORM film_control filmtree  SMBOT 
+\i (00:31:25) FORM film_control filmtree popup 'Display for Visibility' SMBOT 
+\i (00:31:47) FORM film_control general_parameters  
+\i (00:31:58) FORM film_control film_control  
+\i (00:31:59) FORM film_control general_parameters  
+\i (00:32:02) FORM film_control film_control  
+\i (00:32:56) FORM film_control general_parameters  
+\i (00:32:57) FORM film_control film_control  
+\i (00:33:05) FORM film_control filmtree  FAB 
+\i (00:33:07) FORM film_control general_parameters  
+\i (00:33:08) FORM film_control film_control  
+\i (00:34:18) FORM film_control cancel  
+\i (00:34:18) setwindow pcb
+\i (00:34:18) placementedit 
+\i (00:34:19) ncdrill legend 
+   (00:34:19) Loading signal.cxt 
+\i (00:34:21) setwindow form.nc_drilllegend
+\i (00:34:21) FORM nc_drilllegend done  
+\i (00:34:21) setwindow pcb
+\i (00:34:21) zoom out 1 
+\i (00:34:22) setwindow pcb
+\i (00:34:22) zoom out 488.67 614.35
+\i (00:34:22) trapsize 14708
+\i (00:34:22) zoom out 1 
+\i (00:34:22) setwindow pcb
+\i (00:34:22) zoom out 47.43 1465.59
+\i (00:34:22) trapsize 19187
+\i (00:34:23) pick grid 3770.20 5330.93
+\t (00:34:23) last pick:  3770.00 5330.00
+\t (00:34:23) NC Drill Legend generation successful
+\i (00:34:23) placementedit 
+\i (00:34:25) zoom in 1 
+\i (00:34:25) setwindow pcb
+\i (00:34:25) zoom in 815.35 -540.41
+\i (00:34:25) trapsize 9594
+\i (00:34:25) zoom in 1 
+\i (00:34:25) setwindow pcb
+\i (00:34:25) zoom in 143.80 188.72
+\i (00:34:25) trapsize 4797
+\i (00:34:33) artwork 
+\i (00:34:36) setwindow form.film_control
+\i (00:34:36) FORM film_control filmtree popup 'Display for Visibility' FAB 
+\i (00:34:39) FORM film_control filmtree popup 'Display for Visibility' SMBOT 
+\i (00:34:44) FORM film_control filmtree  FAB 
+\i (00:34:45) FORM film_control filmtree popup 'Display for Visibility' FAB 
+\i (00:34:49) setwindow pcb
+\i (00:34:49) zoom out 1 
+\i (00:34:49) setwindow pcb
+\i (00:34:49) zoom out 1083.98 812.31
+\i (00:34:49) trapsize 9594
+\i (00:35:02) setwindow form.film_control
+\i (00:35:02) FORM film_control filmtree  SMBOT 
+\i (00:35:09) FORM film_control filmtree popup 'Display for Visibility' SMBOT 
+\i (00:35:16) FORM film_control filmtree  FAB 
+\i (00:35:17) FORM film_control filmtree popup Cut FAB 
+\i (00:35:20) FORM film_control filmtree popup 'Add Manual' TOP 
+\i (00:35:26) fillin "FAB"
+\i (00:35:41) setwindow form.scl_browser
+\i (00:35:41) FORM scl_browser treelist 'MULTISEL YES' NCLEGEND-1-2 MANUFACTURING 
+\i (00:35:41) FORM scl_browser treelist  NCLEGEND-1-2 MANUFACTURING 
+\i (00:35:59) FORM scl_browser treelist 'MULTISEL YES' XSECTION_CHART MANUFACTURING 
+\i (00:35:59) FORM scl_browser treelist  XSECTION_CHART MANUFACTURING 
+\i (00:36:03) FORM scl_browser treelist 'MULTISEL YES' NCDRILL_FIGURE MANUFACTURING 
+\i (00:36:03) FORM scl_browser treelist  NCDRILL_FIGURE MANUFACTURING 
+\i (00:36:13) FORM scl_browser treelist 'MULTISEL YES' OUTLINE 'BOARD GEOMETRY' 
+\i (00:36:13) FORM scl_browser treelist  OUTLINE 'BOARD GEOMETRY' 
+\i (00:36:15) FORM scl_browser treelist 'MULTISEL YES' DIMENSION 'BOARD GEOMETRY' 
+\i (00:36:15) FORM scl_browser treelist  DIMENSION 'BOARD GEOMETRY' 
+\i (00:36:25) FORM scl_browser done  
+   (00:36:25) WARNING(SPMHA2-118): 'DESIGN_OUTLINE' and 'CUTOUT' are the preferred subclasses for defining an outline. Use these subclasses instead of the 'OUTLINE' subclass. [help]
+\i (00:36:28) fillin confirm
+\i (00:36:39) setwindow form.film_control
+\i (00:36:39) FORM film_control ok  
+\i (00:36:39) setwindow pcb
+\i (00:36:39) placementedit 
+\i (00:36:40) artwork 
+\i (00:36:51) setwindow form.film_control
+\i (00:36:51) FORM film_control filmtree  FAB 
+\i (00:36:52) FORM film_control filmtree popup 'Display for Visibility' FAB 
+\i (00:37:16) FORM film_control filmtree  SMBOT 
+\i (00:37:17) FORM film_control filmtree popup 'Add Manual' SMBOT 
+\i (00:37:23) fillin "VIA"
+\i (00:37:30) setwindow form.scl_browser
+\i (00:37:30) FORM scl_browser treelist 'MULTISEL YES' SOLDERMASK_BOTTOM 'VIA CLASS' 
+\i (00:37:30) FORM scl_browser treelist  SOLDERMASK_BOTTOM 'VIA CLASS' 
+\i (00:37:37) FORM scl_browser treelist 'MULTISEL YES' SOLDERMASK_BOTTOM PIN 
+\i (00:37:37) FORM scl_browser treelist  SOLDERMASK_BOTTOM PIN 
+\i (00:37:38) FORM scl_browser done  
+\i (00:37:40) setwindow form.film_control
+\i (00:37:40) FORM film_control filmtree  VIA 
+\i (00:37:43) FORM film_control filmtree  PIN/SOLDERMASK_BOTTOM VIA 
+\i (00:37:46) FORM film_control filmtree  VIA 
+\i (00:37:53) FORM film_control filmtree popup Cut VIA 
+\i (00:37:54) FORM film_control filmtree  SMBOT 
+\i (00:38:02) FORM film_control filmtree popup Cut SMBOT 
+\i (00:38:06) FORM film_control filmtree popup 'Add Manual' TOP 
+\i (00:38:09) fillin "SMBOT"
+\i (00:38:14) setwindow form.scl_browser
+\i (00:38:14) FORM scl_browser treelist 'MULTISEL YES' SOLDERMASK_BOTTOM 'VIA CLASS' 
+\i (00:38:14) FORM scl_browser treelist  SOLDERMASK_BOTTOM 'VIA CLASS' 
+\i (00:38:20) FORM scl_browser treelist 'MULTISEL YES' SOLDERMASK_BOTTOM PIN 
+\i (00:38:20) FORM scl_browser treelist  SOLDERMASK_BOTTOM PIN 
+\i (00:38:25) FORM scl_browser treelist 'MULTISEL YES' SOLDERMASK_BOTTOM 'PACKAGE GEOMETRY' 
+\i (00:38:25) FORM scl_browser treelist  SOLDERMASK_BOTTOM 'PACKAGE GEOMETRY' 
+\i (00:38:26) FORM scl_browser done  
+\i (00:38:28) setwindow form.film_control
+\i (00:38:28) FORM film_control ok  
+\i (00:38:28) setwindow pcb
+\i (00:38:28) placementedit 
+\i (00:38:30) artwork 
+\i (00:38:33) setwindow form.film_control
+\i (00:38:33) FORM film_control filmtree  SMBOT 
+\i (00:38:35) FORM film_control filmtree popup 'Display for Visibility' SMBOT 
+\i (00:39:03) FORM film_control filmtree popup 'Display for Visibility' SMTOP 
+\i (00:39:06) FORM film_control filmtree popup 'Display for Visibility' SPTOP 
+\i (00:39:08) FORM film_control filmtree popup 'Display for Visibility' SSTOP 
+\i (00:39:15) setwindow pcb
+\i (00:39:15) pick grid 1083.98 889.05
+\t (00:39:15) last pick:  1080.00 890.00
+\i (00:39:16) zoom in 1 
+\i (00:39:16) setwindow pcb
+\i (00:39:16) zoom in -144.01 236.68
+\i (00:39:16) trapsize 4797
+\i (00:39:16) zoom in 1 
+\i (00:39:16) setwindow pcb
+\i (00:39:16) zoom in -76.85 236.69
+\i (00:39:16) trapsize 2398
+\i (00:39:16) zoom in 1 
+\i (00:39:16) setwindow pcb
+\i (00:39:16) zoom in 930.49 1258.42
+\i (00:39:16) trapsize 1199
+\i (00:39:17) zoom in 1 
+\i (00:39:17) setwindow pcb
+\i (00:39:17) zoom in 930.49 1258.42
+\i (00:39:17) trapsize 600
+\i (00:39:17) zoom out 1 
+\i (00:39:17) setwindow pcb
+\i (00:39:17) zoom out 930.49 1258.42
+\i (00:39:17) trapsize 1199
+\i (00:39:17) zoom out 1 
+\i (00:39:17) setwindow pcb
+\i (00:39:17) zoom out 930.49 1258.43
+\i (00:39:17) trapsize 2398
+\i (00:39:17) zoom out 1 
+\i (00:39:17) setwindow pcb
+\i (00:39:17) zoom out 930.49 1258.44
+\i (00:39:17) trapsize 4797
+\i (00:39:25) setwindow form.film_control
+\i (00:39:25) FORM film_control filmtree  SSTOP 
+\i (00:39:32) FORM film_control filmtree popup Cut SSTOP 
+\i (00:39:38) FORM film_control filmtree popup 'Add Manual' TOP 
+\i (00:39:40) FORM film_control filmtree  BO 
+\i (00:39:40) fillin "SSTOP"
+\i (00:39:47) setwindow form.scl_browser
+\i (00:39:47) FORM scl_browser treelist 'MULTISEL YES' ASSEMBLY_TOP 'REF DES' 
+\i (00:39:47) FORM scl_browser treelist  ASSEMBLY_TOP 'REF DES' 
+\i (00:39:49) FORM scl_browser treelist 'MULTISEL YES' SILKSCREEN_TOP 'REF DES' 
+\i (00:39:49) FORM scl_browser treelist  SILKSCREEN_TOP 'REF DES' 
+\i (00:39:58) FORM scl_browser treelist 'MULTISEL YES' SILKSCREEN_TOP 'PACKAGE GEOMETRY' 
+\i (00:39:58) FORM scl_browser treelist  SILKSCREEN_TOP 'PACKAGE GEOMETRY' 
+\i (00:40:04) FORM scl_browser treelist 'MULTISEL YES' SILKSCREEN_TOP 'BOARD GEOMETRY' 
+\i (00:40:04) FORM scl_browser treelist  SILKSCREEN_TOP 'BOARD GEOMETRY' 
+\i (00:40:06) FORM scl_browser done  
+\i (00:40:08) setwindow form.film_control
+\i (00:40:08) FORM film_control ok  
+\i (00:40:08) setwindow pcb
+\i (00:40:08) placementedit 
+\i (00:40:10) artwork 
+\i (00:40:12) setwindow form.film_control
+\i (00:40:12) FORM film_control filmtree popup 'Display for Visibility' SSTOP 
+\i (00:40:13) setwindow pcb
+\i (00:40:13) zoom in 1 
+\i (00:40:13) setwindow pcb
+\i (00:40:13) zoom in 297.30 1104.93
+\i (00:40:13) trapsize 2398
+\i (00:40:13) zoom in 1 
+\i (00:40:13) setwindow pcb
+\i (00:40:13) zoom in 402.84 1124.12
+\i (00:40:13) trapsize 1199
+\i (00:40:14) zoom out 1 
+\i (00:40:14) setwindow pcb
+\i (00:40:14) zoom out 402.84 1124.12
+\i (00:40:14) trapsize 2398
+\i (00:40:15) zoom fit 
+\i (00:40:15) trapsize 1838
+\i (00:40:40) setwindow form.film_control
+\i (00:40:40) FORM film_control filmtree popup 'Display for Visibility' TOP 
+\i (00:40:42) FORM film_control filmtree popup 'Display for Visibility' SSTOP 
+\i (00:40:43) FORM film_control filmtree popup 'Display for Visibility' SPTOP 
+\i (00:40:45) FORM film_control filmtree popup 'Display for Visibility' SMTOP 
+\i (00:40:46) FORM film_control filmtree popup 'Display for Visibility' SMBOT 
+\i (00:40:47) FORM film_control filmtree popup 'Display for Visibility' FAB 
+\i (00:40:48) FORM film_control filmtree popup 'Display for Visibility' BOTTOM 
+\i (00:40:49) FORM film_control filmtree popup 'Display for Visibility' BO 
+\i (00:40:51) FORM film_control domain_setting  
+\i (00:40:52) setwindow form.film_domain
+\i (00:40:52) FORM film_domain cancel  
+\i (00:40:55) setwindow form.film_control
+\i (00:40:55) FORM film_control filmtree popup 'Display for Visibility' SSTOP 
+\i (00:40:58) FORM film_control filmtree popup 'Display for Visibility' SSTOP 
+\i (00:41:02) FORM film_control filmtree popup 'Display for Visibility' TOP 
+\i (00:41:15) FORM film_control ok  
+\i (00:41:15) setwindow pcb
+\i (00:41:15) placementedit 
+\i (00:41:17) save 
+\i (00:41:18) fillin yes 
+\i (00:41:18) placementedit 
+\i (00:41:28) artwork 
+\i (00:41:49) setwindow form.film_control
+\i (00:41:49) FORM film_control create  
+\i (00:41:52) fillin yes 
+\w (00:41:52) No film records selected.
+\i (00:41:55) FORM film_control ok  
+\i (00:41:55) setwindow pcb
+\i (00:41:55) placementedit 
+\i (00:41:57) artwork 
+\i (00:41:58) setwindow form.film_control
+\i (00:41:58) FORM film_control create  
+\i (00:42:00) fillin yes 
+\w (00:42:00) No film records selected.
+\i (00:42:02) FORM film_control create  
+\i (00:42:03) fillin yes 
+\w (00:42:03) No film records selected.
+\i (00:42:03) FORM film_control create  
+\i (00:42:04) fillin yes 
+\w (00:42:04) No film records selected.
+\i (00:42:06) FORM film_control filmtree 'MULTISEL YES' TOP 
+\i (00:42:06) FORM film_control filmtree  TOP 
+\i (00:42:06) FORM film_control filmtree 'MULTISEL YES' SSTOP 
+\i (00:42:06) FORM film_control filmtree  SSTOP 
+\i (00:42:07) FORM film_control filmtree 'MULTISEL YES' SPTOP 
+\i (00:42:07) FORM film_control filmtree  SPTOP 
+\i (00:42:07) FORM film_control filmtree 'MULTISEL YES' SMTOP 
+\i (00:42:07) FORM film_control filmtree  SMTOP 
+\i (00:42:08) FORM film_control filmtree 'MULTISEL YES' SMBOT 
+\i (00:42:08) FORM film_control filmtree  SMBOT 
+\i (00:42:08) FORM film_control filmtree 'MULTISEL YES' FAB 
+\i (00:42:08) FORM film_control filmtree  FAB 
+\i (00:42:09) FORM film_control filmtree 'MULTISEL YES' BOTTOM 
+\i (00:42:09) FORM film_control filmtree  BOTTOM 
+\i (00:42:09) FORM film_control filmtree 'MULTISEL YES' BO 
+\i (00:42:09) FORM film_control filmtree  BO 
+\i (00:42:10) FORM film_control filmtree  BOTTOM 
+\i (00:42:10) FORM film_control filmtree  FAB 
+\i (00:42:10) FORM film_control filmtree  SMBOT 
+\i (00:42:11) FORM film_control filmtree  FAB 
+\i (00:42:14) FORM film_control undefined_line_width 10 
+\i (00:42:14) FORM film_control filmtree  BO 
+\i (00:42:15) FORM film_control filmtree  BOTTOM 
+\i (00:42:16) FORM film_control filmtree  FAB 
+\i (00:42:16) FORM film_control filmtree  SMBOT 
+\i (00:42:19) FORM film_control undefined_line_width 10 
+\i (00:42:19) FORM film_control filmtree  FAB 
+\i (00:42:20) FORM film_control filmtree  SMBOT 
+\i (00:42:20) FORM film_control filmtree  BOTTOM 
+\i (00:42:21) FORM film_control filmtree  SMBOT 
+\i (00:42:21) FORM film_control filmtree  SMTOP 
+\i (00:42:22) FORM film_control filmtree  SPTOP 
+\i (00:42:22) FORM film_control filmtree  SSTOP 
+\i (00:42:22) FORM film_control filmtree  TOP 
+\i (00:42:23) FORM film_control filmtree  SSTOP 
+\i (00:42:25) FORM film_control undefined_line_width 10 
+\i (00:42:27) FORM film_control create  
+\i (00:42:28) fillin yes 
+\t (00:42:28) Checking db records
+\t (00:42:28)     checking for orphans...
+\t (00:42:28)     Checked 100 percent
+\w (00:42:28) Run batch DRC to correctly regenerate DRC errs.
+
+\t (00:42:28) Done dbdoctor.
+\t (00:42:28) Starting Create artwork films...
+\w (00:42:28) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
+\w (00:42:29) Artwork generated with warnings.
+\i (00:42:31) setwindow pcb
+\i (00:42:31) setwindow text
+\i (00:42:31) close
+\i (00:42:32) setwindow form.film_control
+\i (00:42:32) FORM film_control cancel  
+\i (00:42:32) setwindow pcb
+\i (00:42:32) placementedit 
+\i (00:42:40) nctape_full 
+\i (00:42:43) setwindow form.nc_drill
+\i (00:42:43) FORM nc_drill parameters  
+\i (00:42:46) setwindow form.nc_parameters
+\i (00:42:46) FORM nc_parameters done  
+\i (00:42:47) setwindow form.nc_drill
+\i (00:42:47) FORM nc_drill execute  
+\t (00:42:47) Starting Generating NC Drill...
+\i (00:42:51) FORM nc_drill cancel  
+\i (00:42:51) setwindow pcb
+\i (00:42:51) placementedit 
+\i (00:46:49) exit 
+\e (00:46:49) Do you want to save the changes you made to C:/Projects/Proiect 1 DCE/P1_2018_432A_Traistaru_Vlad-Viorel_Amplificator_audio_putere_N8_OrCAD/Layout/AMPLFICATOR AUDIO PUTERE.brd?
+\i (00:46:52) fillin yes 
+\t (00:46:52)     Journal end - Wed Nov 14 14:50:21 2018

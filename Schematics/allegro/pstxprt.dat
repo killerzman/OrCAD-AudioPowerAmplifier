@@ -1,0 +1,440 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.2.0 d001Nov-09-2018 at 19:57:22 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='AMPLIFICATOR AUDIO DE PUTERE';
+ POST_TIME='Jan  9 2017 17:57:56';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'C_CAPC2008X126N_0805_47P':;
+
+SECTION_NUMBER 1
+ '@AMPLIFICATOR AUDIO DE PUTERE.SCHEMATIC1(SCH_1):INS57783@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\amplificator audio de putere\.schematic1(sch_1):ins57783@analog.\c.normal\(chips)',
+ P_PATH='@\amplificator audio de putere\.schematic1(sch_1):page1_ins57783@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'C_ELECT_CAPAE660X770N_10U':;
+
+SECTION_NUMBER 1
+ '@AMPLIFICATOR AUDIO DE PUTERE.SCHEMATIC1(SCH_1):INS56873@ANALOG.C_ELECT.NORMAL(CHIPS)':
+ C_PATH='@\amplificator audio de putere\.schematic1(sch_1):ins56873@analog.\c_elect.normal\(chips)',
+ P_PATH='@\amplificator audio de putere\.schematic1(sch_1):page1_ins56873@analog.\c_elect.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'C_ELECT_CAPAE660X770N_10U':;
+
+SECTION_NUMBER 1
+ '@AMPLIFICATOR AUDIO DE PUTERE.SCHEMATIC1(SCH_1):INS61153@ANALOG.C_ELECT.NORMAL(CHIPS)':
+ C_PATH='@\amplificator audio de putere\.schematic1(sch_1):ins61153@analog.\c_elect.normal\(chips)',
+ P_PATH='@\amplificator audio de putere\.schematic1(sch_1):page1_ins61153@analog.\c_elect.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'C_ELECT_CAPAE660X770N_10U':;
+
+SECTION_NUMBER 1
+ '@AMPLIFICATOR AUDIO DE PUTERE.SCHEMATIC1(SCH_1):INS56889@ANALOG.C_ELECT.NORMAL(CHIPS)':
+ C_PATH='@\amplificator audio de putere\.schematic1(sch_1):ins56889@analog.\c_elect.normal\(chips)',
+ P_PATH='@\amplificator audio de putere\.schematic1(sch_1):page1_ins56889@analog.\c_elect.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'C_CAPC2008X126N_0805_1N':;
+
+SECTION_NUMBER 1
+ '@AMPLIFICATOR AUDIO DE PUTERE.SCHEMATIC1(SCH_1):INS57641@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\amplificator audio de putere\.schematic1(sch_1):ins57641@analog.\c.normal\(chips)',
+ P_PATH='@\amplificator audio de putere\.schematic1(sch_1):page1_ins57641@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'C_CAPC2008X126N_0805_1N':;
+
+SECTION_NUMBER 1
+ '@AMPLIFICATOR AUDIO DE PUTERE.SCHEMATIC1(SCH_1):INS57665@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\amplificator audio de putere\.schematic1(sch_1):ins57665@analog.\c.normal\(chips)',
+ P_PATH='@\amplificator audio de putere\.schematic1(sch_1):page1_ins57665@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'BZX84-C8V2_TO236AB_BZX84-C8V2':;
+
+SECTION_NUMBER 1
+ '@AMPLIFICATOR AUDIO DE PUTERE.SCHEMATIC1(SCH_1):INS68942@BZX84C8V2.BZX84-C8V2.NORMAL(CHIPS)':
+ C_PATH='@\amplificator audio de putere\.schematic1(sch_1):ins68942@bzx84c8v2.\bzx84-c8v2.normal\(chips)',
+ P_PATH='@\amplificator audio de putere\.schematic1(sch_1):page1_ins68942@bzx84c8v2.\bzx84-c8v2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q1 'QBC856B_SOT23_QBC856B':;
+
+SECTION_NUMBER 1
+ '@AMPLIFICATOR AUDIO DE PUTERE.SCHEMATIC1(SCH_1):INS60058@BC856B.QBC856B.NORMAL(CHIPS)':
+ C_PATH='@\amplificator audio de putere\.schematic1(sch_1):ins60058@bc856b.\qbc856b.normal\(chips)',
+ P_PATH='@\amplificator audio de putere\.schematic1(sch_1):page1_ins60058@bc856b.\qbc856b.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q10 'QBC846B_SOT23_QBC846B':;
+
+SECTION_NUMBER 1
+ '@AMPLIFICATOR AUDIO DE PUTERE.SCHEMATIC1(SCH_1):INS59207@BC846B.QBC846B.NORMAL(CHIPS)':
+ C_PATH='@\amplificator audio de putere\.schematic1(sch_1):ins59207@bc846b.\qbc846b.normal\(chips)',
+ P_PATH='@\amplificator audio de putere\.schematic1(sch_1):page1_ins59207@bc846b.\qbc846b.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q11 'QBC856B_SOT23_QBC856B':;
+
+SECTION_NUMBER 1
+ '@AMPLIFICATOR AUDIO DE PUTERE.SCHEMATIC1(SCH_1):INS59829@BC856B.QBC856B.NORMAL(CHIPS)':
+ C_PATH='@\amplificator audio de putere\.schematic1(sch_1):ins59829@bc856b.\qbc856b.normal\(chips)',
+ P_PATH='@\amplificator audio de putere\.schematic1(sch_1):page1_ins59829@bc856b.\qbc856b.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q2 'QBC856B_SOT23_QBC856B':;
+
+SECTION_NUMBER 1
+ '@AMPLIFICATOR AUDIO DE PUTERE.SCHEMATIC1(SCH_1):INS60088@BC856B.QBC856B.NORMAL(CHIPS)':
+ C_PATH='@\amplificator audio de putere\.schematic1(sch_1):ins60088@bc856b.\qbc856b.normal\(chips)',
+ P_PATH='@\amplificator audio de putere\.schematic1(sch_1):page1_ins60088@bc856b.\qbc856b.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q3 'QBC817-25_SOT23_QBC817-25':;
+
+SECTION_NUMBER 1
+ '@AMPLIFICATOR AUDIO DE PUTERE.SCHEMATIC1(SCH_1):INS59968@BC817-25.QBC817-25.NORMAL(CHIPS)':
+ C_PATH='@\amplificator audio de putere\.schematic1(sch_1):ins59968@\bc817-25\.\qbc817-25.normal\(chips)',
+ P_PATH='@\amplificator audio de putere\.schematic1(sch_1):page1_ins59968@\bc817-25\.\qbc817-25.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q4 'QBC846B_SOT23_QBC846B':;
+
+SECTION_NUMBER 1
+ '@AMPLIFICATOR AUDIO DE PUTERE.SCHEMATIC1(SCH_1):INS59383@BC846B.QBC846B.NORMAL(CHIPS)':
+ C_PATH='@\amplificator audio de putere\.schematic1(sch_1):ins59383@bc846b.\qbc846b.normal\(chips)',
+ P_PATH='@\amplificator audio de putere\.schematic1(sch_1):page1_ins59383@bc846b.\qbc846b.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q5 'QBC846B_SOT23_QBC846B':;
+
+SECTION_NUMBER 1
+ '@AMPLIFICATOR AUDIO DE PUTERE.SCHEMATIC1(SCH_1):INS58954@BC846B.QBC846B.NORMAL(CHIPS)':
+ C_PATH='@\amplificator audio de putere\.schematic1(sch_1):ins58954@bc846b.\qbc846b.normal\(chips)',
+ P_PATH='@\amplificator audio de putere\.schematic1(sch_1):page1_ins58954@bc846b.\qbc846b.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q6 'QBC856B_SOT23_QBC856B':;
+
+SECTION_NUMBER 1
+ '@AMPLIFICATOR AUDIO DE PUTERE.SCHEMATIC1(SCH_1):INS58714@BC856B.QBC856B.NORMAL(CHIPS)':
+ C_PATH='@\amplificator audio de putere\.schematic1(sch_1):ins58714@bc856b.\qbc856b.normal\(chips)',
+ P_PATH='@\amplificator audio de putere\.schematic1(sch_1):page1_ins58714@bc856b.\qbc856b.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q7 'QMJD31C_SOT23_QMJD31C':;
+
+SECTION_NUMBER 1
+ '@AMPLIFICATOR AUDIO DE PUTERE.SCHEMATIC1(SCH_1):INS59117@MJD31CG.QMJD31C.NORMAL(CHIPS)':
+ C_PATH='@\amplificator audio de putere\.schematic1(sch_1):ins59117@mjd31cg.\qmjd31c.normal\(chips)',
+ P_PATH='@\amplificator audio de putere\.schematic1(sch_1):page1_ins59117@mjd31cg.\qmjd31c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q8 'QMJD31C_SOT23_QMJD31C':;
+
+SECTION_NUMBER 1
+ '@AMPLIFICATOR AUDIO DE PUTERE.SCHEMATIC1(SCH_1):INS58596@MJD31CG.QMJD31C.NORMAL(CHIPS)':
+ C_PATH='@\amplificator audio de putere\.schematic1(sch_1):ins58596@mjd31cg.\qmjd31c.normal\(chips)',
+ P_PATH='@\amplificator audio de putere\.schematic1(sch_1):page1_ins58596@mjd31cg.\qmjd31c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R10 'R_RES2012X50N_0805_4.7K':;
+
+SECTION_NUMBER 1
+ '@AMPLIFICATOR AUDIO DE PUTERE.SCHEMATIC1(SCH_1):INS56855@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@\amplificator audio de putere\.schematic1(sch_1):ins56855@analog.\r.normal\(chips)',
+ P_PATH='@\amplificator audio de putere\.schematic1(sch_1):page1_ins56855@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R11 'R_RES2012X50N_0805_5.6K':;
+
+SECTION_NUMBER 1
+ '@AMPLIFICATOR AUDIO DE PUTERE.SCHEMATIC1(SCH_1):INS56997@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@\amplificator audio de putere\.schematic1(sch_1):ins56997@analog.\r.normal\(chips)',
+ P_PATH='@\amplificator audio de putere\.schematic1(sch_1):page1_ins56997@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R12 'R_RES2012X50N_0805_910':;
+
+SECTION_NUMBER 1
+ '@AMPLIFICATOR AUDIO DE PUTERE.SCHEMATIC1(SCH_1):INS57977@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@\amplificator audio de putere\.schematic1(sch_1):ins57977@analog.\r.normal\(chips)',
+ P_PATH='@\amplificator audio de putere\.schematic1(sch_1):page1_ins57977@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R13 'R_RES2012X50N_0805_1K':;
+
+SECTION_NUMBER 1
+ '@AMPLIFICATOR AUDIO DE PUTERE.SCHEMATIC1(SCH_1):INS57241@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@\amplificator audio de putere\.schematic1(sch_1):ins57241@analog.\r.normal\(chips)',
+ P_PATH='@\amplificator audio de putere\.schematic1(sch_1):page1_ins57241@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R14 'POT_RES2012X50N_0805_2.2K':;
+
+SECTION_NUMBER 1
+ '@AMPLIFICATOR AUDIO DE PUTERE.SCHEMATIC1(SCH_1):INS56975@BREAKOUT.POT.NORMAL(CHIPS)':
+ C_PATH='@\amplificator audio de putere\.schematic1(sch_1):ins56975@breakout.\pot.normal\(chips)',
+ P_PATH='@\amplificator audio de putere\.schematic1(sch_1):page1_ins56975@breakout.\pot.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R15 'R_RES2012X50N_0805_33':;
+
+SECTION_NUMBER 1
+ '@AMPLIFICATOR AUDIO DE PUTERE.SCHEMATIC1(SCH_1):INS57095@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@\amplificator audio de putere\.schematic1(sch_1):ins57095@analog.\r.normal\(chips)',
+ P_PATH='@\amplificator audio de putere\.schematic1(sch_1):page1_ins57095@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R16 'R_RES2012X50N_0805_1K':;
+
+SECTION_NUMBER 1
+ '@AMPLIFICATOR AUDIO DE PUTERE.SCHEMATIC1(SCH_1):INS57577@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@\amplificator audio de putere\.schematic1(sch_1):ins57577@analog.\r.normal\(chips)',
+ P_PATH='@\amplificator audio de putere\.schematic1(sch_1):page1_ins57577@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1A 'R_RES2012X50N_0805_220':;
+
+SECTION_NUMBER 1
+ '@AMPLIFICATOR AUDIO DE PUTERE.SCHEMATIC1(SCH_1):INS64742@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@\amplificator audio de putere\.schematic1(sch_1):ins64742@analog.\r.normal\(chips)',
+ P_PATH='@\amplificator audio de putere\.schematic1(sch_1):page1_ins64742@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1B 'R_RES2012X50N_0805_220':;
+
+SECTION_NUMBER 1
+ '@AMPLIFICATOR AUDIO DE PUTERE.SCHEMATIC1(SCH_1):INS64780@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@\amplificator audio de putere\.schematic1(sch_1):ins64780@analog.\r.normal\(chips)',
+ P_PATH='@\amplificator audio de putere\.schematic1(sch_1):page1_ins64780@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R26 'R_RES2012X50N_0805_51':;
+
+SECTION_NUMBER 1
+ '@AMPLIFICATOR AUDIO DE PUTERE.SCHEMATIC1(SCH_1):INS57057@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@\amplificator audio de putere\.schematic1(sch_1):ins57057@analog.\r.normal\(chips)',
+ P_PATH='@\amplificator audio de putere\.schematic1(sch_1):page1_ins57057@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R27 'R_RES2012X50N_0805_51':;
+
+SECTION_NUMBER 1
+ '@AMPLIFICATOR AUDIO DE PUTERE.SCHEMATIC1(SCH_1):INS57077@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@\amplificator audio de putere\.schematic1(sch_1):ins57077@analog.\r.normal\(chips)',
+ P_PATH='@\amplificator audio de putere\.schematic1(sch_1):page1_ins57077@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R28A 'R_RES2012X50N_0805_0.47':;
+
+SECTION_NUMBER 1
+ '@AMPLIFICATOR AUDIO DE PUTERE.SCHEMATIC1(SCH_1):INS63927@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@\amplificator audio de putere\.schematic1(sch_1):ins63927@analog.\r.normal\(chips)',
+ P_PATH='@\amplificator audio de putere\.schematic1(sch_1):page1_ins63927@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R28B 'R_RES2012X50N_0805_0.47':;
+
+SECTION_NUMBER 1
+ '@AMPLIFICATOR AUDIO DE PUTERE.SCHEMATIC1(SCH_1):INS57019@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@\amplificator audio de putere\.schematic1(sch_1):ins57019@analog.\r.normal\(chips)',
+ P_PATH='@\amplificator audio de putere\.schematic1(sch_1):page1_ins57019@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R29A 'R_RES2012X50N_0805_0.47':;
+
+SECTION_NUMBER 1
+ '@AMPLIFICATOR AUDIO DE PUTERE.SCHEMATIC1(SCH_1):INS63965@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@\amplificator audio de putere\.schematic1(sch_1):ins63965@analog.\r.normal\(chips)',
+ P_PATH='@\amplificator audio de putere\.schematic1(sch_1):page1_ins63965@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R29B 'R_RES2012X50N_0805_0.47':;
+
+SECTION_NUMBER 1
+ '@AMPLIFICATOR AUDIO DE PUTERE.SCHEMATIC1(SCH_1):INS57039@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@\amplificator audio de putere\.schematic1(sch_1):ins57039@analog.\r.normal\(chips)',
+ P_PATH='@\amplificator audio de putere\.schematic1(sch_1):page1_ins57039@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'R_RES2012X50N_0805_1K':;
+
+SECTION_NUMBER 1
+ '@AMPLIFICATOR AUDIO DE PUTERE.SCHEMATIC1(SCH_1):INS57595@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@\amplificator audio de putere\.schematic1(sch_1):ins57595@analog.\r.normal\(chips)',
+ P_PATH='@\amplificator audio de putere\.schematic1(sch_1):page1_ins57595@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R30A 'R_RES2012X50N_0805_0.47':;
+
+SECTION_NUMBER 1
+ '@AMPLIFICATOR AUDIO DE PUTERE.SCHEMATIC1(SCH_1):INS58345@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@\amplificator audio de putere\.schematic1(sch_1):ins58345@analog.\r.normal\(chips)',
+ P_PATH='@\amplificator audio de putere\.schematic1(sch_1):page1_ins58345@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R30B 'R_RES2012X50N_0805_0.47':;
+
+SECTION_NUMBER 1
+ '@AMPLIFICATOR AUDIO DE PUTERE.SCHEMATIC1(SCH_1):INS57361@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@\amplificator audio de putere\.schematic1(sch_1):ins57361@analog.\r.normal\(chips)',
+ P_PATH='@\amplificator audio de putere\.schematic1(sch_1):page1_ins57361@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R30C 'R_RES2012X50N_0805_0.47':;
+
+SECTION_NUMBER 1
+ '@AMPLIFICATOR AUDIO DE PUTERE.SCHEMATIC1(SCH_1):INS58379@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@\amplificator audio de putere\.schematic1(sch_1):ins58379@analog.\r.normal\(chips)',
+ P_PATH='@\amplificator audio de putere\.schematic1(sch_1):page1_ins58379@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R31 'R_RES2012X50N_0805_47K':;
+
+SECTION_NUMBER 1
+ '@AMPLIFICATOR AUDIO DE PUTERE.SCHEMATIC1(SCH_1):INS56835@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@\amplificator audio de putere\.schematic1(sch_1):ins56835@analog.\r.normal\(chips)',
+ P_PATH='@\amplificator audio de putere\.schematic1(sch_1):page1_ins56835@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'R_RES2012X50N_0805_2.2K':;
+
+SECTION_NUMBER 1
+ '@AMPLIFICATOR AUDIO DE PUTERE.SCHEMATIC1(SCH_1):INS56707@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@\amplificator audio de putere\.schematic1(sch_1):ins56707@analog.\r.normal\(chips)',
+ P_PATH='@\amplificator audio de putere\.schematic1(sch_1):page1_ins56707@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'R_RES2012X50N_0805_47K':;
+
+SECTION_NUMBER 1
+ '@AMPLIFICATOR AUDIO DE PUTERE.SCHEMATIC1(SCH_1):INS56797@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@\amplificator audio de putere\.schematic1(sch_1):ins56797@analog.\r.normal\(chips)',
+ P_PATH='@\amplificator audio de putere\.schematic1(sch_1):page1_ins56797@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'R_RES2012X50N_0805_1K':;
+
+SECTION_NUMBER 1
+ '@AMPLIFICATOR AUDIO DE PUTERE.SCHEMATIC1(SCH_1):INS57273@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@\amplificator audio de putere\.schematic1(sch_1):ins57273@analog.\r.normal\(chips)',
+ P_PATH='@\amplificator audio de putere\.schematic1(sch_1):page1_ins57273@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'R_RES2012X50N_0805_15K':;
+
+SECTION_NUMBER 1
+ '@AMPLIFICATOR AUDIO DE PUTERE.SCHEMATIC1(SCH_1):INS56817@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@\amplificator audio de putere\.schematic1(sch_1):ins56817@analog.\r.normal\(chips)',
+ P_PATH='@\amplificator audio de putere\.schematic1(sch_1):page1_ins56817@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'POT_RES2012X50N_0805_500':;
+
+SECTION_NUMBER 1
+ '@AMPLIFICATOR AUDIO DE PUTERE.SCHEMATIC1(SCH_1):INS56621@BREAKOUT.POT.NORMAL(CHIPS)':
+ C_PATH='@\amplificator audio de putere\.schematic1(sch_1):ins56621@breakout.\pot.normal\(chips)',
+ P_PATH='@\amplificator audio de putere\.schematic1(sch_1):page1_ins56621@breakout.\pot.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ RS 'R_RES2012X50N_0805_6':;
+
+SECTION_NUMBER 1
+ '@AMPLIFICATOR AUDIO DE PUTERE.SCHEMATIC1(SCH_1):INS57389@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@\amplificator audio de putere\.schematic1(sch_1):ins57389@analog.\r.normal\(chips)',
+ P_PATH='@\amplificator audio de putere\.schematic1(sch_1):page1_ins57389@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

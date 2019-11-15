@@ -1,0 +1,8 @@
+STATUS: PSpice Schematics to Capture translator (16.6.0.d001)
+STATUS:  
+STATUS: Translator started at Wednesday, October 10, 2018 01:38:45
+STATUS: C:\OrCAD\OrCAD_16.6_Lite\tools\Capture\sch2cap -f "E:\Pt facultate\Anul 3\Sem 1\Proiect 1\Lib_ModelePSpice_Anexa_1\Modele_A1_lib\MJD31CG.lib" -o "E:\Pt facultate\Anul 3\Sem 1\Proiect 1\Lib_ModelePSpice_Anexa_1\Modele_A1_lib\MJD31CG.olb" -i C:\Users\moise\AppData\Roaming\SPB_16.6\cdssetup\OrCAD_PSpice/16.6.0/PSpice.ini
+INFO(ORSCH-1029): Using existing library 'C:\OrCAD\OrCAD_16.6_Lite\tools\Capture\Library\PSpice\modeled.etc'.
+INFO(ORSCH-1029): Using existing library 'E:\Pt facultate\Anul 3\Sem 1\Proiect 1\Lib_ModelePSpice_Anexa_1\Modele_A1_lib\MJD31CG.olb'.
+STATUS: Translator stopped at Wednesday, October 10, 2018 01:38:45
+STATUS: 0 Error messages, 0 Warning messages

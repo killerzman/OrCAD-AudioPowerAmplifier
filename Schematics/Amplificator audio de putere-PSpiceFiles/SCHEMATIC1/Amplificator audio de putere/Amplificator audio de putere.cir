@@ -1,0 +1,36 @@
+** Profile: "SCHEMATIC1-Amplificator audio de putere"  [ C:\Projects\Proiect 1 DCE\P1_2018_432A_Traistaru_Vlad-Viorel_Amplificator_audio_putere_N8_OrCAD\Schematics\amplificator audio de putere-pspicefiles\schematic1\amplificator audio de putere.sim ] 
+
+** Creating circuit file "Amplificator audio de putere.cir" 
+** WARNING: THIS AUTOMATICALLY GENERATED FILE MAY BE OVERWRITTEN BY SUBSEQUENT SIMULATIONS
+
+*Libraries: 
+* Profile Libraries :
+* Local Libraries :
+.LIB "../../../modele_a1_lib/1n4148.lib" 
+.LIB "../../../modele_a1_lib/bc807-25.lib" 
+.LIB "../../../modele_a1_lib/bc817-25.lib" 
+.LIB "../../../modele_a1_lib/bc846b.lib" 
+.LIB "../../../modele_a1_lib/bc856b.lib" 
+.LIB "../../../modele_a1_lib/bzx84c2v7.lib" 
+.LIB "../../../modele_a1_lib/bzx84c5v1.lib" 
+.LIB "../../../modele_a1_lib/bzx84c5v6.lib" 
+.LIB "../../../modele_a1_lib/bzx84c6v2.lib" 
+.LIB "../../../modele_a1_lib/bzx84c6v8.lib" 
+.LIB "../../../modele_a1_lib/bzx84c8v2.lib" 
+.LIB "../../../modele_a1_lib/bzx84c10.lib" 
+.LIB "../../../modele_a1_lib/irfr120npbf.lib" 
+.LIB "../../../modele_a1_lib/mjd31cg.lib" 
+.LIB "../../../modele_a1_lib/mjd32cg.lib" 
+.LIB "../../../modele_a1_lib/mmbfj177lt1g.lib" 
+.LIB "../../../modele_a1_lib/mmbfj309lt1g.lib" 
+* From [PSPICE NETLIST] section of C:\SPB_Data\cdssetup\OrCAD_PSpice\17.2.0\PSpice.ini file:
+.lib "nomd.lib" 
+
+*Analysis directives: 
+.TRAN  0 5ms 0 0.5ms 
+.OPTIONS ADVCONV
+.PROBE64 V(alias(*)) I(alias(*)) W(alias(*)) D(alias(*)) NOISE(alias(*)) 
+.INC "..\SCHEMATIC1.net" 
+
+
+.END

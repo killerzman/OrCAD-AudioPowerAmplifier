@@ -1,0 +1,259 @@
+
+**** 11/09/18 18:15:19 ******* PSpice Lite (March 2016) ******* ID# 10813 ****
+
+ ** Profile: "SCHEMATIC1-Amplificator audio de putere"  [ C:\Projects\Proiect 1 DCE\P1_2018_432A_Traistaru_Vlad-Viorel_Amplificator_a
+
+
+ ****     CIRCUIT DESCRIPTION
+
+
+******************************************************************************
+
+
+
+
+** Creating circuit file "Amplificator audio de putere.cir" 
+** WARNING: THIS AUTOMATICALLY GENERATED FILE MAY BE OVERWRITTEN BY SUBSEQUENT SIMULATIONS
+
+*Libraries: 
+* Profile Libraries :
+* Local Libraries :
+.LIB "../../../modele_a1_lib/1n4148.lib" 
+.LIB "../../../modele_a1_lib/bc807-25.lib" 
+.LIB "../../../modele_a1_lib/bc817-25.lib" 
+.LIB "../../../modele_a1_lib/bc846b.lib" 
+.LIB "../../../modele_a1_lib/bc856b.lib" 
+.LIB "../../../modele_a1_lib/bzx84c2v7.lib" 
+.LIB "../../../modele_a1_lib/bzx84c5v1.lib" 
+.LIB "../../../modele_a1_lib/bzx84c5v6.lib" 
+.LIB "../../../modele_a1_lib/bzx84c6v2.lib" 
+.LIB "../../../modele_a1_lib/bzx84c6v8.lib" 
+.LIB "../../../modele_a1_lib/bzx84c8v2.lib" 
+.LIB "../../../modele_a1_lib/bzx84c10.lib" 
+.LIB "../../../modele_a1_lib/irfr120npbf.lib" 
+.LIB "../../../modele_a1_lib/mjd31cg.lib" 
+.LIB "../../../modele_a1_lib/mjd32cg.lib" 
+.LIB "../../../modele_a1_lib/mmbfj177lt1g.lib" 
+.LIB "../../../modele_a1_lib/mmbfj309lt1g.lib" 
+* From [PSPICE NETLIST] section of C:\SPB_Data\cdssetup\OrCAD_PSpice\17.2.0\PSpice.ini file:
+.lib "nomd.lib" 
+
+*Analysis directives: 
+.TRAN  0 5ms 0 0.5ms 
+.OPTIONS ADVCONV
+.PROBE64 V(alias(*)) I(alias(*)) W(alias(*)) D(alias(*)) NOISE(alias(*)) 
+.INC "..\SCHEMATIC1.net" 
+
+
+
+**** INCLUDING SCHEMATIC1.net ****
+* source AMPLIFICATOR AUDIO DE PUTERE
+R_R15         -15 N571050  33  
+C_C1         N56961 N57017  47p  
+C_C6         N57707 N57187  1n  
+R_R26         N57125 N57161  51  
+V_V1         +15 0 15Vdc
+R_R30-2         N57187 N57411  0.47  
+R_R31         N57187 N56951  47k  
+R_R29-2         N57115 N57187  0.47  
+X_R9    N56971 N56965 N566312 SCHEMATIC1_R9 
+V_V2         0 -15 15Vdc
+R_R27         -15 N58817  51  
+X_R14    N64844 N64840 N569852 SCHEMATIC1_R14 
+R_R7         N57313 +15  1k  
+R_R6         0 N56933  47k  
+C_C5         N57187 N57713  1n  
+R_R16         N57707 N57115  1K  
+R_R13         N57319 N57261  1k  
+R_R11         -15 N56961  5.6k  
+R_Rs         0 N57411  6  
+R_R10         N568651 N56951  4.7k  
+C_C2         N57775 N56923  10u  
+C_C4         N57319 N57187  10u  
+R_R5         N56923 N56933  2.2k  
+R_R8         N57313 N566312  15k  
+R_R3         N57713 N57125  1k  
+R_R28-2         N57187 N57125  0.47  
+R_R12         N57319 +15  910 TC=0,0 
+R_R30-1         N57187 N57411  0.47  
+R_R30-3         N57187 N57411  0.47  
+Q_Q8         N57115 N58817 -15 QMJD31C 
+Q_Q6         N58817 N57017 N57115 QBC856B 
+Q_Q5         +15 N57261 N57161 QBC846B 
+Q_Q7         +15 N57161 N57125 QMJD31C 
+Q_Q10         N57261 N57713 N57187 QBC846B 
+Q_Q4         N57261 N569852 N57017 QBC846B 
+Q_Q11         N57017 N57707 N57187 QBC856B 
+Q_Q3         N57017 N56961 N571050 QBC817-25 
+Q_Q1         N56961 N56933 N56971 QBC856B 
+Q_Q2         -15 N56951 N56965 QBC856B 
+C_C3         0 N568651  10u  
+V_V3         N57775 0  AC 0.1
++SIN 0 0.11 1kHz 0 0 0
+R_R28-1         N57187 N57125  0.47  
+R_R29-1         N57115 N57187  0.47  
+R_R1A         N64840 N57261  220  
+R_R1B         N57017 N64844  220  
+D_D2         0 N57313 BZX84-C8V2 
+
+.subckt SCHEMATIC1_R9 1 2 t  
+RT_R9         1 t {(500*(1-0.5))+.001}
+RB_R9         t 2 {(500*0.5)+.001}
+.ends SCHEMATIC1_R9
+
+.subckt SCHEMATIC1_R14 1 2 t  
+RT_R14         1 t {(2.2k*(1-0.48))+.001}
+RB_R14         t 2 {(2.2k*0.48)+.001}
+.ends SCHEMATIC1_R14
+
+**** RESUMING "Amplificator audio de putere.cir" ****
+.END
+
+**** 11/09/18 18:15:19 ******* PSpice Lite (March 2016) ******* ID# 10813 ****
+
+ ** Profile: "SCHEMATIC1-Amplificator audio de putere"  [ C:\Projects\Proiect 1 DCE\P1_2018_432A_Traistaru_Vlad-Viorel_Amplificator_a
+
+
+ ****     Diode MODEL PARAMETERS
+
+
+******************************************************************************
+
+
+
+
+               BZX84-C8V2      
+          IS  110.880000E-18 
+           N     .92657      
+         ISR  146.750000E-12 
+         IKF  149.75         
+          BV    8.3329       
+         IBV    1.0062       
+          RS     .85899      
+          TT    2.770000E-06 
+         CJO   54.185000E-12 
+          VJ     .66823      
+           M     .33443      
+
+
+**** 11/09/18 18:15:19 ******* PSpice Lite (March 2016) ******* ID# 10813 ****
+
+ ** Profile: "SCHEMATIC1-Amplificator audio de putere"  [ C:\Projects\Proiect 1 DCE\P1_2018_432A_Traistaru_Vlad-Viorel_Amplificator_a
+
+
+ ****     BJT MODEL PARAMETERS
+
+
+******************************************************************************
+
+
+
+
+               QBC817-25       QBC846B         QBC856B         QMJD31C         
+               NPN             NPN             PNP             NPN             
+       LEVEL    1               1               1               1            
+          IS   91.980000E-15   18.220000E-15   20.140000E-15   90.620200E-12 
+          EG                                                    1.05         
+          BF  338.8           324.4           315.3             3.418700E+03 
+          NF    1.003            .9932           .9974          1.17603      
+         VAF  107.9            82              39.15           29.2393       
+         IKF     .4913           .109            .079            .108267     
+         ISE  446.800000E-18  289.400000E-18    6.578000E-15  537.193000E-09 
+          NE    1.65            1.4             1.45            4            
+          BR   29.48            8.29            8.68          367.353        
+          NR    1.002            .9931           .9952          5            
+         VAR   25              17.9             9.5             1.631        
+         IKR     .193            .09             .09            1.15207      
+         ISC    5.109000E-15    9.982000E-12   16.330000E-15    1.157540E-09 
+          NC    1.071           1.763           1.15            1.49179      
+         ISS    0               0               0               0            
+          RB    1              10              10              22.4853       
+         RBM    1               5               5.000000E-06    1.000000E-12 
+         IRB    1.000000E+03    5.000000E-06    5.000000E-06    2.209370E-03 
+          RE     .2126           .649            .663         100.000000E-06 
+          RC     .143            .7014           .718            .138633     
+         CJE   38.250000E-12   12.440000E-12   11.350000E-12  373.889000E-12 
+         VJE     .7004           .7579           .7071           .67672      
+         MJE     .364            .3656           .3808           .575056     
+         CJC   12.700000E-12    3.347000E-12    6.395000E-12  352.510000E-12 
+         VJC     .4431           .5463           .4951           .884306     
+         MJC     .3983           .391            .44             .473486     
+        XCJC     .4555           .6193           .6288           .1          
+         CJS    0               0               0               0            
+         VJS     .75             .75             .75             .75         
+         MJS     .333            .333            .333            .5          
+          FC     .905            .979            .9059           .8          
+          TF  522.900000E-12  490.800000E-12  654.600000E-12   10.000000E-09 
+         XTF  219.7             9.51            5.387           3.4926       
+         VTF    3.502           2.927           6.245          12.6615       
+         ITF    7.257            .3131           .2108           .052395     
+          TR   70.000000E-12   90.000000E-09   55.000000E-09    3.298030E-06 
+         XTB                                                  999.997000E-15 
+         XTI                                                    1.000000E-12 
+          KF    0               0               0               0            
+          AF    1               1               1               1            
+          CN    2.42            2.42            2.2             2.42         
+           D     .87             .87             .52             .87         
+
+
+**** 11/09/18 18:15:19 ******* PSpice Lite (March 2016) ******* ID# 10813 ****
+
+ ** Profile: "SCHEMATIC1-Amplificator audio de putere"  [ C:\Projects\Proiect 1 DCE\P1_2018_432A_Traistaru_Vlad-Viorel_Amplificator_a
+
+
+ ****     INITIAL TRANSIENT SOLUTION       TEMPERATURE =   27.000 DEG C
+
+
+******************************************************************************
+
+
+
+ NODE   VOLTAGE     NODE   VOLTAGE     NODE   VOLTAGE     NODE   VOLTAGE
+
+
+(  +15)   15.0000  (  -15)  -15.0000  (N56923)     .0227 (N56933)     .0227     
+
+(N56951)    -.0265 (N56961)  -14.0980 (N56965)     .5726 (N56971)     .6075     
+
+(N57017)    -.7655 (N57115)    -.0682 (N57125)    -.0653 (N57161)    -.0229     
+
+(N57187)    -.0655 (N57261)     .6049 (N57313)    8.2070 (N57319)    8.1416     
+
+(N57411)    -.0638 (N57707)    -.0682 (N57713)    -.0653 (N57775)    0.0000     
+
+(N58817)  -14.4970 (N64840)     .4880 (N64844)    -.6538 (N566312)     .6530    
+
+(N568651)    -.0265                   (N569852)    -.0731                       
+
+(N571050)  -14.7500                   
+
+
+
+
+    VOLTAGE SOURCE CURRENTS
+    NAME         CURRENT
+
+    V_V1        -1.516E-02
+    V_V2        -1.951E-02
+    V_V3         0.000E+00
+
+    TOTAL POWER DISSIPATION   5.20E-01  WATTS
+
+
+
+          JOB CONCLUDED
+
+**** 11/09/18 18:15:19 ******* PSpice Lite (March 2016) ******* ID# 10813 ****
+
+ ** Profile: "SCHEMATIC1-Amplificator audio de putere"  [ C:\Projects\Proiect 1 DCE\P1_2018_432A_Traistaru_Vlad-Viorel_Amplificator_a
+
+
+ ****     JOB STATISTICS SUMMARY
+
+
+******************************************************************************
+
+
+
+  Total job time (using Solver 1)   =         .08
+

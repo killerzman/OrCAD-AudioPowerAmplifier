@@ -1,0 +1,51 @@
+*
+*******************************************
+*
+*BZX84-C2V7
+*
+*NXP Semiconductors
+*
+*Voltage regulator diode
+*
+*
+*
+*
+* 
+*
+*IR    = 20µA @ VR = 1V
+*IZSM  = 6A   @ tp = 100µs
+*VZmax = 2,9V @ IZ = 5mA
+*
+*
+*
+*
+* 
+*
+*
+*Package pinning does not match Spice model pinning.
+*Package: SOT23
+*
+*Package Pin 1: Anode
+*Package Pin 2: not connected
+*Package Pin 3: Cathode
+*
+*
+*
+*Simulator: PSPICE
+*
+*******************************************
+*#
+.MODEL BZX84-C2V7 D
++ IS=110.88E-18
++ N=.92657
++ RS=.85899
++ IKF=147.68
++ CJO=344.69E-12
++ M=.31964
++ VJ=.72935
++ ISR=1.5159E-6
++ BV=2.7639
++ IBV=69.770E-3
++ TT=17.889E-9
+*##
+*

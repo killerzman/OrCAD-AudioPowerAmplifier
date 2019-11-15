@@ -1,0 +1,39 @@
+  Revised: Friday, November 09, 2018
+          Revision: 
+
+
+
+
+
+
+
+Bill Of Materials       November 9,2018      18:55:54	Page1
+
+Item	Quantity	Reference	Part
+______________________________________________
+
+1	1	C1	47p
+2	3	C2,C3,C4	10u
+3	2	C5,C6	1n
+4	1	D2	BZX84-C8V2
+5	3	J1,J2,J3	CON2
+6	1	J6	CON1
+7	4	Q1,Q2,Q6,Q11	QBC856B
+8	1	Q3	QBC817-25
+9	3	Q4,Q5,Q10	QBC846B
+10	2	Q7,Q8	QMJD31C
+11	8	Rs1,R28B,R28A,R29B,R29A,	0.47
+		R30C,R30B,R30A
+12	1	Rs2	1
+13	1	Rs3	4.7
+14	2	R1B,R1A	220
+15	4	R3,R7,R13,R16	1K
+16	2	R5,R14	2.2k
+17	2	R6,R31	47k
+18	1	R8	15k
+19	1	R9	500
+20	1	R10	4.7k
+21	1	R11	5.6k
+22	1	R12	910
+23	1	R15	33
+24	2	R26,R27	51

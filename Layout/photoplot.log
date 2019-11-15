@@ -1,0 +1,316 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : AMPLFICATOR AUDIO PUTERE.brd                  )
+(    Software Version : 17.2S012                                      )
+(    Date/Time        : Wed Nov 14 14:45:57 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ ******************************************
+ WARNING: DRC OUT OF DATE on this layout.
+ ******************************************
+
+ ---- Photoplot outline rectangle not found; using drawing extents.
+
+
+
+Results from parameter file ...
+    DEVICE-TYPE           GERBER_RS274X
+    OUTPUT-UNITS          INCHES
+    FILM-SIZE             2400000 1600000
+    FORMAT                2.5
+    ABORT-ON-ERROR        NO
+    SCALE                 1
+    SUPPRESS-LEAD-ZEROES  YES
+    SUPPRESS-TRAIL-ZEROES NO
+    SUPPRESS-EQUAL        YES
+    UNDEF-APT-CONT        NO
+
+
+
+================================================================
+     PROCESSING FILM < TOP >
+     TO FILE < C:/Projects/Proiect 1 DCE/P1_2018_432A_Traistaru_Vlad-Viorel_Amplificator_audio_putere_N8_OrCAD/Layout/TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                10.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.02400                                  DARK 
+  CIRCLE     0.04000                                  DARK 
+  SQUARE     0.07874                     0.000 NO     DARK 
+  RECTANGLE  0.02000     x 0.01700       0.000 NO     DARK 
+  RECTANGLE  0.02000     x 0.01700      90.000 NO     DARK 
+  RECTANGLE  0.04331     x 0.03740       0.000 NO     DARK 
+  RECTANGLE  0.04331     x 0.03740      90.000 NO     DARK 
+  RECTANGLE  0.05000     x 0.03600       0.000 NO     DARK 
+  RECTANGLE  0.05709     x 0.03740       0.000 NO     DARK 
+  RECTANGLE  0.05709     x 0.03740      90.000 NO     DARK 
+  RECTANGLE  0.06000     x 0.10000       0.000 NO     DARK 
+  RECTANGLE  0.06000     x 0.10000      90.000 NO     DARK 
+  RECTANGLE  0.07874     x 0.05118      90.000 NO     DARK 
+  RECTANGLE  0.11811     x 0.06299       0.000 NO     DARK 
+  RECTANGLE  0.11811     x 0.11811       0.000 NO     DARK 
+  RECTANGLE  0.24409     x 0.22835       0.000 NO     DARK 
+
+     TOP created with warnings
+
+
+================================================================
+     PROCESSING FILM < BOTTOM >
+     TO FILE < C:/Projects/Proiect 1 DCE/P1_2018_432A_Traistaru_Vlad-Viorel_Amplificator_audio_putere_N8_OrCAD/Layout/BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                10.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.02400                                  DARK 
+
+     BOTTOM created with warnings
+
+
+================================================================
+     PROCESSING FILM < SMTOP >
+     TO FILE < C:/Projects/Proiect 1 DCE/P1_2018_432A_Traistaru_Vlad-Viorel_Amplificator_audio_putere_N8_OrCAD/Layout/SMTOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                10.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.04400                                  DARK 
+  CIRCLE     0.05000                                  DARK 
+  SQUARE     0.08874                     0.000 NO     DARK 
+  RECTANGLE  0.03000     x 0.02700       0.000 NO     DARK 
+  RECTANGLE  0.03000     x 0.02700      90.000 NO     DARK 
+  RECTANGLE  0.04724     x 0.04528       0.000 NO     DARK 
+  RECTANGLE  0.04724     x 0.04528      90.000 NO     DARK 
+  RECTANGLE  0.06000     x 0.04600       0.000 NO     DARK 
+  RECTANGLE  0.06709     x 0.04740       0.000 NO     DARK 
+  RECTANGLE  0.06709     x 0.04740      90.000 NO     DARK 
+  RECTANGLE  0.07000     x 0.11000       0.000 NO     DARK 
+  RECTANGLE  0.07000     x 0.11000      90.000 NO     DARK 
+  RECTANGLE  0.08661     x 0.05906      90.000 NO     DARK 
+  RECTANGLE  0.12598     x 0.07087       0.000 NO     DARK 
+  RECTANGLE  0.12811     x 0.12811       0.000 NO     DARK 
+  RECTANGLE  0.25409     x 0.23835       0.000 NO     DARK 
+
+     SMTOP created with warnings
+
+
+================================================================
+     PROCESSING FILM < SPTOP >
+     TO FILE < C:/Projects/Proiect 1 DCE/P1_2018_432A_Traistaru_Vlad-Viorel_Amplificator_audio_putere_N8_OrCAD/Layout/SPTOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                10.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.04000                                  DARK 
+  SQUARE     0.06874                     0.000 NO     DARK 
+  RECTANGLE  0.01000     x 0.00700       0.000 NO     DARK 
+  RECTANGLE  0.01000     x 0.00700      90.000 NO     DARK 
+  RECTANGLE  0.04000     x 0.02600       0.000 NO     DARK 
+  RECTANGLE  0.04709     x 0.02740       0.000 NO     DARK 
+  RECTANGLE  0.04709     x 0.02740      90.000 NO     DARK 
+  RECTANGLE  0.04724     x 0.04528       0.000 NO     DARK 
+  RECTANGLE  0.04724     x 0.04528      90.000 NO     DARK 
+  RECTANGLE  0.05000     x 0.09000       0.000 NO     DARK 
+  RECTANGLE  0.05000     x 0.09000      90.000 NO     DARK 
+  RECTANGLE  0.10811     x 0.10811       0.000 NO     DARK 
+  RECTANGLE  0.11811     x 0.06299       0.000 NO     DARK 
+  RECTANGLE  0.23409     x 0.21835       0.000 NO     DARK 
+
+     SPTOP created with warnings
+
+
+================================================================
+     PROCESSING FILM < BO >
+     TO FILE < C:/Projects/Proiect 1 DCE/P1_2018_432A_Traistaru_Vlad-Viorel_Amplificator_audio_putere_N8_OrCAD/Layout/BO.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                10.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.01000                                  DARK 
+
+     BO created with warnings
+
+
+================================================================
+     PROCESSING FILM < FAB >
+     TO FILE < C:/Projects/Proiect 1 DCE/P1_2018_432A_Traistaru_Vlad-Viorel_Amplificator_audio_putere_N8_OrCAD/Layout/FAB.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                10.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: 0 width line found at (0.00 1700.00)
+           ... using undefined line width of 10.00
+
+    WARNING: Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 10.00
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00600                                  DARK 
+  CIRCLE     0.01000                                  DARK 
+
+     FAB created with warnings
+
+
+================================================================
+     PROCESSING FILM < SMBOT >
+     TO FILE < C:/Projects/Proiect 1 DCE/P1_2018_432A_Traistaru_Vlad-Viorel_Amplificator_audio_putere_N8_OrCAD/Layout/SMBOT.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                10.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.04400                                  DARK 
+
+     SMBOT created with warnings
+
+
+================================================================
+     PROCESSING FILM < SSTOP >
+     TO FILE < C:/Projects/Proiect 1 DCE/P1_2018_432A_Traistaru_Vlad-Viorel_Amplificator_audio_putere_N8_OrCAD/Layout/SSTOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                10.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00600                                  DARK 
+  CIRCLE     0.00787                                  DARK 
+  CIRCLE     0.01000                                  DARK 
+
+     SSTOP created with warnings
+
+
+------------------------------------------------------
+ SUMMARY:
+        TOP created with warnings
+        BOTTOM created with warnings
+        SMTOP created with warnings
+        SPTOP created with warnings
+        BO created with warnings
+        FAB created with warnings
+        SMBOT created with warnings
+        SSTOP created with warnings
+
+ ARTWORK had warnings
